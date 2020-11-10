@@ -97,6 +97,8 @@ public class OOGajiPegawai {
         System.out.println("------------------------------------------------");
         oo.tampilData(nama,alamat,uangTunjangan,uangTransport,gajiPokok,totalGaji);
         
+        System.out.println();
+        System.out.println("by. Fiona Avila");
     }
     
 }
